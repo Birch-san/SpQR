@@ -1,5 +1,6 @@
 # SPQR model compression
 
+Check **[here](README.falcon.md)** for how to setup this repository for inferencing from falcon-40b-instruct.
 
 **Note:** This repository contains quantization algorithm and the model evaluation code for SpQR method for LLM compression; 
 The efficient inference code will be added soon.
